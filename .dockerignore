@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.git/
+.vs/
+.idea/
+.backups/
+**/*.user
+**/*.suo
+.env
+.env.*
