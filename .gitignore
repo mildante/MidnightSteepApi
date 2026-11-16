@@ -1,0 +1,23 @@
+# Результаты сборки во всех подпроектах
+[Bb]in/
+[Oo]bj/
+
+# Локальные настройки IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# Резервные копии и логи
+.backups/
+logs/
+*.log
+
+# Локальные секреты
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+
+# Результаты тестов
+TestResults/

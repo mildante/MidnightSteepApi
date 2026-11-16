@@ -1,0 +1,6 @@
+@MidnightSteepApi_HostAddress = http://localhost:5036
+
+GET {{MidnightSteepApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
